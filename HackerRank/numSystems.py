@@ -1,0 +1,5 @@
+n = int(input("Enter the number: "))
+print("The decimal number is: ",str(n))
+print("The octa number is: ",oct(n))
+print("The hexadecinal number is ", hex(n).upper())
+print("The binary number is ", bin(n))

@@ -1,0 +1,20 @@
+Name of the Patient: Emily Johnson
+Date of report: August 15, 2023
+Email id of the lab technician: labtech@example.com
+Name of the Doctor: Dr. Samantha Miller
+Age of the patient: 28
+Website if any: www.emilyJohnson.com
+
+Name of the Patient: Maria Martinez
+Date of report: September 3, 2023
+Email id of the lab technician: labtech2@example.com
+Name of the Doctor: Dr. Michael Williams
+Age of the patient: 35
+Website if any: www.MMartinez.org
+
+Name of the Patient: Jessica Lee
+Date of report: July 22, 2023
+Email id of the lab technician: labtech3@example.com
+Name of the Doctor: Dr. Emily Davis
+Age of the patient: 31
+Website if any: www.jlee.in
