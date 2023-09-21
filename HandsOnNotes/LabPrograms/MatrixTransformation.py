@@ -24,7 +24,7 @@ def scaling(m):
 
 def rotation(m):
     theta = int(input("Enter the rotating angle: "))
-    mL = [np.cos(theta) ,np.sin(theta), -np.sin(theta), np.cos(theta)]
+    mL = [np.cos(theta) ,-np.sin(theta), np.sin(theta), np.cos(theta)]
     Sm = np.array(mL)
     Sm = Sm.reshape(2,2)
     transformed_matrix = np.dot(Sm,m)
